@@ -1,0 +1,17 @@
+paleta
+hielo
+nieve
+frio
+calor
+neblina
+limpio
+arbol
+camino
+cambio
+comida
+refresco
+iteracion
+trabajo
+estudio
+platzi
+
